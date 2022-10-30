@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 <!--
 **jorgeMFS/jorgeMFS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,5 +26,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/jorgeMFS/jorgeMFS">
   <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=jorgeMFS&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Francisco's GitHub Stats" />
 </a>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgeMFS)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgeMFS&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
