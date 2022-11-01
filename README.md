@@ -39,27 +39,27 @@ Here are some ideas to get you started:
 
 
 <a href="https://scholar.google.com/citations?user=N6ZzRPEAAAAJ&hl=en-EN" target="_blank">
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/googlescholar.svg" align=left width=24 height=24/>
+<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/googlescholar.svg" align=left width=24 height=24/>
 </a>
 
 <a href="https://www.scopus.com/authid/detail.uri?authorId=57194129937" target="_blank">
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/scopus.svg" align=left width=24 height=24/>
+<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/scopus.svg" align=left width=24 height=24/>
 </a>
 
 <a href="https://www.webofscience.com/wos/author/rid/I-3343-2018" target="_blank">
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/publons.svg" align=left width=24 height=24/>
+<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/publons.svg" align=left width=24 height=24/>
 </a>
 
 <a href="https://orcid.org/0000-0002-6331-6091" target="_blank">
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/orcid.svg" align=left width=24 height=24/>
+<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/orcid.svg" align=left width=24 height=24/>
 </a>
 
 <a href="https://www.researchgate.net/profile/Jorge-Miguel-Silva-2" target="_blank">
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/researchgate.svg" align=left width=24 height=24/>
+<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/researchgate.svg" align=left width=24 height=24/>
 </a>
 
 <a href="https://aveiro.academia.edu/JorgeMiguelSilva" target="_blank">
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/academia.svg" align=left width=24 height=24/>
+<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/academia.svg" align=left width=24 height=24/>
 </a>
 <br />
 <br />
