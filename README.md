@@ -1,7 +1,20 @@
-## Hi there 👋
+### hey there 👋
+
+<a href="https://twitter.com/MiguelFSilva1">
+  <img align="left" alt="jorgeMFS Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/jorge-miguel-ferreira-da-silva/">
+  <img align="left" alt="jorgeMFS LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/Mikejpeg/">
+  <img align="left" alt="jorgeMFS Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+
 ![visitors](https://visitor-badge.glitch.me/badge?style=for-the-badge&page_id=jorgeMFS)
 <iconify-icon icon="academicons:google-scholar-square" style="color: #126089;"></iconify-icon>
-### 🔭 🌱 About me
+<br />
+
+#### 🔭 🌱 About me
 
 I am a Research Fellow at the Institute of Electronics and Informatics Engineering of Aveiro (IEETA), a Computer Science and Engineering research unit. I have a Master’s degree in Bioengineering from the Faculty of Engineering at the University of Porto, and I am currently finishing my Computer Science PhD. My main research interests are Information Theory, Artificial Intelligence and Compression, focusing on applying compression and artificial intelligence methods in genomics.
 
@@ -22,7 +35,7 @@ Here are some ideas to get you started:
 
 
 
-### Research Information
+#### Research Information
 
 
 <a href="https://scholar.google.com/citations?user=N6ZzRPEAAAAJ&hl=en-EN" target="_blank">
@@ -52,7 +65,7 @@ Here are some ideas to get you started:
 <br />
 
 
-### &#x1f4c8; GitHub Stats
+#### &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/jorgeMFS/jorgeMFS">
   <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeMFS&layout=compact&langs_count=10&hide=dockerfile,makefile,php&theme=vue&title_color=126089&icon_color=32B4CE" />
@@ -61,10 +74,8 @@ Here are some ideas to get you started:
   <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=jorgeMFS&show_icons=true&line_height=27&theme=vue&title_color=126089&icon_color=32B4CE" alt="GitHub Stats" />
 </a>
 
-## &#x1F44B; Social Media
+#### &#x1F44B; Other Social Media
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MiguelFSilva1)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-miguel-ferreira-da-silva/)
 [![Reddit Badge](https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white)](https://www.https://www.reddit.com/user/next_nutshell/)
 
 
