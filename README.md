@@ -1,11 +1,10 @@
 # Hey there 👋
 
-I am a Research Fellow at the Institute of Electronics and Informatics Engineering of Aveiro (IEETA), a Computer Science and Engineering research unit. My main research interests are in Information Theory, Artificial Intelligence, and Compression, with a focus on applying these methods in genomics.
+I am a Researcher at the Institute of Electronics and Informatics Engineering of Aveiro (IEETA), a Computer Science and Engineering research unit. My main research interests are in Information Theory, Artificial Intelligence, and Compression, with a focus on applying these methods in genomics.
 
 ## About me
 
-- I have a Master’s degree in Bioengineering from the Faculty of Engineering at the University of Porto.
-- I am currently finishing my Computer Science PhD.
+- I have a PhD in Computer Science and a Master’s in Bioengineering.
 
 ## Research Information
 
