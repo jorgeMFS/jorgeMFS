@@ -34,7 +34,3 @@ You can find me on:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/jorge-miguel-ferreira-da-silva/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=social&logo=instagram)](https://www.instagram.com/Mikejpeg/)
 
-## GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgeMFS&show_icons=true&theme=tokyonight)](https://github.com/jorgeMFS)
-
